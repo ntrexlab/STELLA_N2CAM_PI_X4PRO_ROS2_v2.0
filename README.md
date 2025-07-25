@@ -1,1 +1,8 @@
 # STELLA_N2CAM_PI_X4PRO_ROS2_v2.0
+SBC : 라즈베리파이4 8GB
+
+LIDAR : RPLIDAR X4 PRO
+
+ROS ver : ROS2 Humble
+
+Where to use : STELLA N2 CAM
